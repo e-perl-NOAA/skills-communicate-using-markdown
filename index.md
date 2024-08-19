@@ -4,6 +4,12 @@
 ###### Header 6
 Regular text
 
+```
+print("Hello World!")
+library(dplyr)
+mtcars |> filter(mpg > 20)
+```
+
 ![Image of Scubatocat](https://octodex.github.com/images/scubatocat.png)
 
 <!--- Different sized image ---> 
