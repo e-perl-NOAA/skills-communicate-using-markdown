@@ -1,8 +1,22 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/e-perl-NOAA/skills-communicate-using-markdown)
+![GitHub contributors](https://img.shields.io/github/contributors/e-perl-NOAA/skills-communicate-using-markdown)
+
 # Header 1
 ## Header 2
 ### Header 3
 ###### Header 6
 Regular text
+
+[This is a hyperlink to my GitHub page](https://github.com/e-perl-NOAA) that you can go to.
+
+:fish:
+
+🐬
+
+*Italicized text*  
+**Bold text**  
+***Bold and italicized text***  
+
 
 ### List to check off
 - [x] List item 1
