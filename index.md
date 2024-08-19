@@ -4,6 +4,20 @@
 ###### Header 6
 Regular text
 
+### List to check off
+- [x] List item 1
+- [x] List item 2
+- [ ] List item 3
+
+### Regular List
+- List item 1
+- List item 2
+- List item 3
+
+1. List item 1
+2. List item 2
+3. List item 3
+
 ```
 print("Hello World!")
 library(dplyr)
